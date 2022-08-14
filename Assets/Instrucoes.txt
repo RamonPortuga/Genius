@@ -1,0 +1,5 @@
+Bem-vindo ao Genius!
+O jogo é bem simples. Ele tem duas fases: a fase de ouvir, em que o computador fará uma sequência de sons à sua esquerda, direita e frente, e a fase de reproduzir, em que sua tarefa será repetir o padrão que o computador apresentou. Se conseguir, sua pontuação aumentará e o computador vai apresentar o mesmo padrão, com um som extra ao final, para aumentar a dificuldade.
+Se em algum momento o padrão que você der ao computador não for o mesmo que o computador apresentou, o jogo acaba.
+Para jogar, são usadas as teclas A, W e D. Ao ouvir um som vindo da esquerda, aperte A. Um som vindo da direita requer que D seja apertado, e finalmente quando o som vier da sua frente, aperte W.
+Boa sorte!
